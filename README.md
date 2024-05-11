@@ -1,4 +1,4 @@
-Short Overview:
+#Short Overview:
 ![6](https://github.com/911abhishek/Student-Management-System-with-face-recognition/assets/138745734/57e6c231-e0ac-43b2-b68f-bfb1e6743db7)
 ![7](https://github.com/911abhishek/Student-Management-System-with-face-recognition/assets/138745734/81ab0fb2-579f-4ce9-96b4-023ca063058e)
 ![8](https://github.com/911abhishek/Student-Management-System-with-face-recognition/assets/138745734/b11e81c6-6cc7-4831-b032-91f50d6c7d37)
